@@ -1,1 +1,34 @@
-a
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+    <title>Brytengol - Dreigoth Wiki</title>
+    <style>
+        body {
+			background-image: url("https://jdeknoblo.github.io/bg_img.jpg");
+			background-color: #000000;
+			margin: 0 auto;
+			padding: 0px;
+			width: 50%;
+			min-width: 750px;
+		}
+    </style>
+</head>
+
+<body>
+    <div style="background-color: #fff; border-style: outset; border-radius: px; margin: 20px 0 20px;">
+	<span style="text-align:center;text-decoration: underline;"><a href="https://jdeknoblo.github.io/"><h1>The Dark Realm of Dreigoth Wiki</h1></a></span> 
+		<span style="text-align:center;text-decoration: underline;"><h1>Dreigoth</h1></span>
+		<p style=" padding: 20px;">
+    Brytengol is between the land of Elves to the west, the land of Dwarves to the north, Kularklok to the east, and the land of savagery to the south. The country is split between two powers, The Bánhelm's with Wraitward and Beorhilm, and the Holts with Barbearn and the High Elf allies. The country was in civil war for almost a decade with many losses. The war of Dúnælfen ended after many losses on both sides, and it's been decades since, but there's still some bad blood between Bánhelm Empire and the Holts. 
+    <br />
+    <br />
+    Brytengol is called the land of men, but it's also the home to Half-Elves, though they're mostly only welcome in Holtic territory, so their capital city is Garbearn, where they originated. The rest of Brytengol has minority populations of most races from all around Dreigoth, though many are treated poorly among the humans.
+    <br />
+    <br />
+    Ultimately, Brytengol is a relatively safe place in the main cities and villages, but the creatures of Slaktkrag and Mörkskog pose many issues, creating a society of fearful citizens that rarely stray far from home.
+  </div>
+  </body>
+</html>
